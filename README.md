@@ -4,8 +4,7 @@
 
 ### 下载
 
-- Windows: [地址解析工具-v1.0.0-win64.exe](https://github.com/QiKeO/address-parser/releases/download/v1.0.0/地址解析工具-v1.0.0-win64.exe)
-
+- Windows: [地址解析工具-v1.0.0-win64.exe](https://github.com/QiKeO/address-parser/releases/download/v1.0.0/address-parser-v1.0.0-win64.exe)
 ### 安装说明
 
 1. 下载对应系统的安装包
